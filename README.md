@@ -76,7 +76,7 @@ Set up the Scanner Module to capture and transmit fingerprint scans to the datab
 
 - [Kishnu Kumar](https://github.com/krrish9783)
 - [Adity Kumar](https://github.com/Aditya)
-- [Pranjwal](https://github.com/Pranjyalc)
+- [Prajwal](https://github.com/prajwalsingh11)
 - [Sujan Shetty](https://github.com/SUjanshetty)
 
 
