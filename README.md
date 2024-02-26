@@ -24,8 +24,8 @@ EZY Attendance is a web-based application designed to streamline and simplify at
 - **Database Storage:** Utilizes MySQL for secure and efficient storage of attendance data.
 - **Backend Framework:** Employs Python's Flask framework for robust backend development.
 
-### Home
-
+## Home
+![logo1](snap/Home.png)
 
 ## Hardware Requirements
 
