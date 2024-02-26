@@ -1,0 +1,80 @@
+body{
+    background: linear-gradient(135deg, #3494e6, #ec6ead);
+    height: 100vh;
+    
+    
+        margin: 0;
+        padding: 0;
+       
+        
+
+}
+
+.header {
+    display: flex;
+    justify-content: space-between; /* Pushes the logos and text to opposite ends */
+    align-items: center; /* Aligns items vertically */
+    
+  }
+  
+  .logo img,
+  .logo1 img {
+    width: 100%; /* Adjust width as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
+
+
+  /* Style for the form container */
+  .log {
+    max-width: 1000px;
+    height: 70%;
+    margin: 50px auto;
+    padding: 30px;
+    border: 2px solid white;
+    box-shadow: 0px 0px 20px blue;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    text-align: center;
+    border-radius: 13px;
+}
+  
+  /* Style for the form heading */
+  .log h2 {
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: #007bff;
+}
+
+  
+  /* Style for form inputs */
+  .log input[type="text"],
+  .log input[type="password"],
+  .log input[type="email"] {
+    width: 50%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border: 2px solid #007bff;
+    border-radius: 5px; /* ensures padding and border are included in the element's total width and height */
+  }
+  
+  /* Style for the submit button */
+  .log button[type="submit"],
+  .log button[type="reset"] {
+    width: 50%;
+    height:50px;;
+    padding: 10px;
+    border: none;
+    border-radius: 13px;
+    cursor: pointer;
+    background-color: #a72283;
+    color: white;
+  }
+  
+  /* Hover effect for buttons */
+  .log button[type="submit"]:hover{
+    background-color: #45a049;
+  }
+  .log button[type="reset"]:hover {
+    background-color: red;
+  }
+  
