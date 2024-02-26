@@ -25,7 +25,11 @@ EZY Attendance is a web-based application designed to streamline and simplify at
 - **Backend Framework:** Employs Python's Flask framework for robust backend development.
 
 ## Home
-![logo1](snap/Home.png)
+![logo1](snap/home1.png)
+
+## Admins
+
+![logo1](snap/home2.png)
 
 ## Hardware Requirements
 
