@@ -1,3 +1,5 @@
+![home](snap/logo.png)
+
 # EZY Attendance: Biometric Attendance Tracking System
 
 EZY Attendance is a cost-effective and user-friendly system for managing attendance in business and educational settings using biometric authentication.
@@ -23,10 +25,10 @@ EZY Attendance is a web-based application designed to streamline and simplify at
 - **Backend Framework:** Employs Python's Flask framework for robust backend development.
 
 ### Home
-![home](snap/home.png)
+![home](snap/Home.png)
 
 ### Admin Module
-![Admins](snap/admins.png)
+![Admins](snap/Admin.png)
 
 ## Hardware Requirements
 
